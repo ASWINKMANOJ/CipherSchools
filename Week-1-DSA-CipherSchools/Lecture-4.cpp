@@ -12,5 +12,6 @@ int main()
 
     cout << (a > b && c > d);
     cout << (a > b || c > d);
+
     return 0;
 }
